@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning creating Ai models
 - 💞️ I’m looking to collaborate on data annotation, transcription projects.
 - 📫 How to reach me @quantitivesea@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...me
 - ⚡ Fun fact: ...
 
 <!---
